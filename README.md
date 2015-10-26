@@ -556,6 +556,7 @@
 ### Rust
 
 * [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
+* [rust开发技术学习路线](http://special.csdncms.csdn.net/rust/index.shtml)
 
 ### Scala
 
